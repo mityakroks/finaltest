@@ -34,5 +34,6 @@ https://github.com/mityakroks/finaltest/tree/dev
 
 Результат: відправте історію змін репозиторію до і після отримання змін від сервера та посилання на створений комміт.
 https://github.com/mityakroks/finaltest/commit/4798cb741fab395e287fe4b1b3ced72557d2fa9d 
+https://github.com/mityakroks/finaltest/blob/main/log/lab2.png
 
 
